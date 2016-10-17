@@ -1,4 +1,4 @@
-package fr.paris10.poa.td3;
+package fr.paris10.poa.td3.client;
 
 /**
  * Created by jomedjid on 10/10/2016.
