@@ -34,6 +34,6 @@ public class ProductFactory {
             return new ProductC();
         }
 
-        return null;
+        return new ProductA();
     }
 }
